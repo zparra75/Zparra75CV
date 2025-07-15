@@ -1,5 +1,4 @@
 <img src="https://github.com/zparra75/Zparra75CV/blob/main/cv-dd/imagen/FOTOPERFIL.jpg" alt="Logo">
-# Mini Proyecto de mi CV Personal Basico HTML y CSS
 
 ### ...Mini Protecyo para estudio de Mi CV Personal en HTTML y CSS agregando imagenes y estilos basicos
 
